@@ -1,4 +1,4 @@
-# 📱 KrazyShopn MVP 개발 계획 (3주)
+# 📱 KrazyShopn MVP 개발 계획 (8주)
 
 ## 개발 원칙
 - **Daily Demo**: 매일 동작하는 기능 구현
