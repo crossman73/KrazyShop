@@ -1,4 +1,4 @@
-# 🚀 CosmicScan - 투자자용 비즈니스 기획서
+# 🚀 KrazyShop(CosmicScan) - 투자자용 비즈니스 기획서
 
 ## Executive Summary
 **AI 기반 개인화 화장품 성분 분석 플랫폼**
