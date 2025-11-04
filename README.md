@@ -25,7 +25,7 @@
 
 ```
 cosmetic-analyzer/
-├── docs/                          # 📋 프로젝트 기획 문서
+├── Docs/                          # 📋 프로젝트 기획 문서
 │   ├── business-plan.md           # 투자자용 비즈니스 기획서
 │   ├── technical-architecture.md  # 무료 기반 기술 설계
 │   ├── mvp-development-plan.md    # 3주 완성 개발 계획
@@ -67,7 +67,7 @@ git clone [repository-url]
 cd cosmetic-analyzer
 
 # 문서 확인
-ls docs/  # 모든 기획 문서 확인
+ls Docs/  # 모든 기획 문서 확인
 ```
 
 ### 2. 개발 준비
@@ -78,7 +78,7 @@ ls docs/  # 모든 기획 문서 확인
 ```
 
 ### 3. MVP 개발 시작
-자세한 일정은 [`docs/mvp-development-plan.md`](docs/mvp-development-plan.md) 참조
+자세한 일정은 [`Docs/mvp-development-plan.md`](Docs/mvp-development-plan.md) 참조
 
 ## 📊 핵심 지표
 
@@ -87,7 +87,7 @@ ls docs/  # 모든 기획 문서 확인
 - **수익**: ARR $2M (36개월)
 - **투자**: Series A $5M (18개월)
 
-자세한 지표는 [`docs/kpi-measurement-system.md`](docs/kpi-measurement-system.md) 참조
+자세한 지표는 [`Docs/kpi-measurement-system.md`](Docs/kpi-measurement-system.md) 참조
 
 ## 🌏 글로벌 전략
 
@@ -97,7 +97,7 @@ ls docs/  # 모든 기획 문서 확인
 3. **서구 진출** (12-18개월) - 미국, 영국, 호주
 4. **글로벌 완성** (18-24개월) - 유럽, 기타 신흥시장
 
-자세한 전략은 [`docs/global-expansion-strategy.md`](docs/global-expansion-strategy.md) 참조
+자세한 전략은 [`Docs/global-expansion-strategy.md`](Docs/global-expansion-strategy.md) 참조
 
 ## 📋 다음 단계
 
@@ -119,7 +119,7 @@ ls docs/  # 모든 기획 문서 확인
 ## 📞 연락처
 
 **프로젝트 문의**: [연락처 정보]  
-**투자 관련**: [`docs/business-plan.md`](docs/business-plan.md) 참조
+**투자 관련**: [`Docs/business-plan.md`](Docs/business-plan.md) 참조
 
 ---
 *CosmicScan Project - 2025-09-18*
