@@ -1,4 +1,4 @@
-# 📋 CosmicScan 프로젝트 완료 요약 (업데이트)
+# 📋 KrazyShop(CosmicScan) 프로젝트 완료 요약 (업데이트)
 
 ## 🎯 5단계 완료 체크리스트
 
