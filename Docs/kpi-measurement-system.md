@@ -37,23 +37,23 @@ OCR 정확도: 80% 이하 하락
 3. **Premium 유도**: Free → Paid 전환율
 4. **추천 알고리즘**: 사용자 만족도
 
-### 성공/실패 시나리오
+### 성공/실패 시나리오 (6개월 타임라인)
 
 #### 성공 시나리오 (Best Case)
 ```
-Month 3: 한국 1만 MAU 달성
-Month 6: 아시아 3개국 진출 성공  
-Month 12: Seed $500K 투자 완료
-Month 18: Series A $5M 달성
+Month 2: 한국 5천 MAU 달성
+Month 3: Seed $300K 투자 완료
+Month 4: 아시아 2개국 진출 성공 (2만 MAU)
+Month 6: Series A $3M 달성 + 10만 MAU
 ```
 
 #### 기본 시나리오 (Base Case)
 ```
-Month 3: 한국 5천 MAU
-Month 6: 일본 진출 시작
-Month 12: Seed $300K 투자
-Month 18: Series A 준비 단계
+Month 2: 한국 3천 MAU
+Month 3: Seed $200K 투자
+Month 4: 일본 진출 시작 (1만 MAU)
+Month 6: Series A 준비 완료 + 5만 MAU
 ```
 
 ---
-*KPI 측정 시스템 v1.0 - 2025-09-18*
+*KPI 측정 시스템 v2.0 (6개월 타임라인) - 2025-11-05*
