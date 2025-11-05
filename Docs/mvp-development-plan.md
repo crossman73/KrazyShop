@@ -21,7 +21,7 @@ Week 1-2: 인프라 및 아키텍처 강화
 ✅ 백업 및 재해복구 계획
 
 Week 3-4: OCR 및 분석 정확도 향상
-✅ 다양한 OCR 엔진 통합 (Tesseract, Google Vision, AWS Textract)
+✅ 다중 OCR 엔진 통합 (Tesseract 기본, Google Vision 백업, AWS Textract 선택적)
 ✅ 성분 데이터베이스 확장 (1,000+ 성분)
 ✅ AI 분석 모델 정교화
 ✅ 다국어 지원 (한국어, 영어, 일본어)
