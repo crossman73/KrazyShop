@@ -22,11 +22,12 @@ OCR 정확도: 80% 이하 하락
 
 ### 월간 투자자 업데이트
 ```
+개발 진행도: POC/MVP/서비스 단계별 진행률
 핵심 지표: MAU, MRR, Churn Rate
 제품 개선: 새로운 기능 및 성과
 시장 피드백: 사용자 인사이트
 재무 현황: 비용 효율성 및 런웨이
-다음 목표: 향후 3개월 계획
+다음 목표: 향후 분기 계획
 ```
 
 ## 데이터 기반 의사결정 체계
@@ -41,19 +42,30 @@ OCR 정확도: 80% 이하 하락
 
 #### 성공 시나리오 (Best Case)
 ```
-Month 3: 한국 1만 MAU 달성
-Month 6: 아시아 3개국 진출 성공  
-Month 12: Seed $500K 투자 완료
-Month 18: Series A $5M 달성
+Month 3: POC 완료, 초기 테스터 200명
+Month 9: MVP 완료, 베타 사용자 2,000명
+Month 12: 한국 출시, 15만 MAU 달성
+Month 18: 아시아 3개국 진출, 50만 MAU
+Month 24: Series A $5M 투자 완료
 ```
 
 #### 기본 시나리오 (Base Case)
 ```
-Month 3: 한국 5천 MAU
-Month 6: 일본 진출 시작
-Month 12: Seed $300K 투자
-Month 18: Series A 준비 단계
+Month 3: POC 완료, 초기 테스터 100명
+Month 9: MVP 완료, 베타 사용자 1,000명
+Month 12: 한국 출시, 10만 MAU
+Month 18: 아시아 2개국 진출, 30만 MAU
+Month 24: Series A 준비 단계
+```
+
+#### 보수 시나리오 (Conservative Case)
+```
+Month 3: POC 지연, 초기 테스터 50명
+Month 9: MVP 완료, 베타 사용자 500명
+Month 12: 한국 소프트 런칭, 5만 MAU
+Month 18: 일본 진출 시작, 15만 MAU
+Month 24: Bridge 투자 확보, Series A 준비
 ```
 
 ---
-*KPI 측정 시스템 v1.0 - 2025-09-18*
+*KPI 측정 시스템 v1.1 - 타임라인 업데이트 (2025-11-05)*
