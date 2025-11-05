@@ -132,7 +132,7 @@ ls docs/  # 모든 기획 문서 확인
 **투자 관련**: [`Docs/business-plan.md`](Docs/business-plan.md) 참조
 
 ---
-*CosmicScan Project - 2025-09-18*
+*CosmicScan Project - 타임라인 재구성 (2025-11-05)*
 =======
 # KrazyShop
 미친비교 
